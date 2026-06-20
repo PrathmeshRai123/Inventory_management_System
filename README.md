@@ -1,7 +1,7 @@
 # Ethara AI - Inventory & Order Management System
 **Built by Ethara AI**
 
-🔗**Github Link**: https://github.com/ruchiyadav0070/ruchi0090👉
+🔗**Github Link**: https://github.com/PrathmeshRai123/Inventory_management_System👉
 
 🔗****Frontend Hosted URL****: http://localhost:5173/👉
 
