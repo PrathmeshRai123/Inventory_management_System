@@ -1,11 +1,11 @@
 # Ethara AI - Inventory & Order Management System
 **Built by Ethara AI**
 
-🔗**Github Link**: https://github.com/PrathmeshRai123/Inventory_management_System👉
+🔗**Github Link**: https://github.com/PrathmeshRai123/Inventory_management_System
 
-🔗****Frontend Hosted URL****: http://localhost:5173/👉
+🔗****Frontend Hosted URL****: http://localhost:5173/
 
-🔗****Backend API Hosted URL****: http://localhost:5173/👉
+🔗****Backend API Hosted URL****: http://localhost:5173/
 
 StockWise is a simplified Inventory & Order Management System built with a **FastAPI** backend API, a **React** (Vite + TypeScript + Vanilla CSS) frontend, and a **PostgreSQL** database. 
 
@@ -109,7 +109,7 @@ Since hosting platform accounts and Docker Hub require personal authentication, 
 To compile and publish your backend API image to Docker Hub:
 ```bash
 # Build the image locally
-docker build -t ruchi0070/stockwise-backend:latest ./backend
+docker push prathmesh0020/inventory_system:tagname
 
 # Login to Docker Hub
 docker login
@@ -117,7 +117,7 @@ docker login
 # Push the image to the repository
 docker push ruchi0070/stockwise-backend:latest
 ```
-This gives you your **Backend Docker Hub Image Link**: `https://hub.docker.com/repository/docker/ruchi0070/ruchi0070/general`.
+This gives you your **Backend Docker Hub Image Link**: `https://hub.docker.com/repository/docker/prathmesh0020/inventory_system/general`.
 
 ### 3. Deploy to Render (Free Tier)
 Render supports automatic deployments using our pre-configured `render.yaml` Blueprint file:
