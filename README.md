@@ -115,7 +115,7 @@ docker push prathmesh0020/inventory_system:tagname
 docker login
 
 # Push the image to the repository
-docker push ruchi0070/stockwise-backend:latest
+docker push prathmesh0020/stockwise-backend:latest
 ```
 This gives you your **Backend Docker Hub Image Link**: `https://hub.docker.com/repository/docker/prathmesh0020/inventory_system/general`.
 
